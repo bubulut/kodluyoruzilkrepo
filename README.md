@@ -1,3 +1,2 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-<img width="1409" alt="Ekran Resmi 2023-05-16 18 08 10" src="https://github.com/bubulut/kodluyoruzilkrepo/assets/107203275/80f187f3-2898-47da-a35b-4213f716d7b3">
